@@ -1,0 +1,9 @@
+# video analysis
+phidata
+google-generativeai
+duckduckgo-search
+streamlit
+python-dotenv
+
+# pip install -r requirements.txt
+#GOOGLE_API_KEY=""
